@@ -287,9 +287,9 @@
         "collapsible_tab_9EKWkm": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How long does shipping take?",
+            "heading": "Does it really work on all fabrics?",
             "open": false,
-            "content": "<p>Shipping typically takes <strong>5–7 business days</strong>, depending on your location. You’ll receive a tracking number once your order ships.<br/></p>",
+            "content": "<p>Yes! Our lint remover is fabric-friendly and gentle enough for wool, cashmere, sweaters, coats, blankets, jeans, and more. The stainless steel blade removes pills and lint without damaging the fibers — just glide gently across the surface and watch the magic happen.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -297,9 +297,9 @@
         "collapsible_tab_pJxgfV": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Are your products safe to use?",
+            "heading": "How long does the battery last?",
             "open": false,
-            "content": "<p>All our products are carefully selected and safe for general use. Please check product details for specific instructions or sensitivities.</p>",
+            "content": "<p>A full charge gives you up to 1 hour of continuous use — more than enough to refresh multiple sweaters, coats, and blankets in one session. Just plug it in with the included USB cable when the battery runs low.</p>",
             "page": "",
             "custom_liquid": ""
           }
@@ -307,9 +307,9 @@
         "collapsible_tab_6F3RJ4": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How can I contact you?",
+            "heading": "Is it safe for delicate fabrics?",
             "open": false,
-            "content": "<p>You can reach us anytime at <strong>WhatsApp</strong> — we’re happy to help!</p>",
+            "content": "<p>Absolutely. The blade is designed to remove pills and lint while gliding gently across the fabric — no pulling, snagging, or damage. For very delicate items (like silk or lace), we recommend a light, careful pass to be safe.</p>",
             "page": "",
             "custom_liquid": ""
           }
