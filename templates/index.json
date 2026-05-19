@@ -66,9 +66,9 @@
       "type": "featured-collection",
       "name": "Featured collection",
       "settings": {
-        "heading": "Featured Collection",
+        "heading": "Our Bestseller 💚",
         "marker_style": "style1",
-        "description": "",
+        "description": "<p>The little gadget your wardrobe didn't know it needed.</p>",
         "collection": "custom-collection",
         "display_type": "grid",
         "product_limit": 12,
