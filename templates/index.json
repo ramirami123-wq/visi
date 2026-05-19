@@ -342,16 +342,16 @@
           "type": "icon",
           "settings": {
             "icon": "truck",
-            "heading": "Delivery All Over Lebanon",
-            "text": ""
+            "heading": "Free Delivery",
+            "text": "<p>Free shipping on orders over $40 — straight to your door.</p>"
           }
         },
         "icon_qjn98W": {
           "type": "icon",
           "settings": {
-            "icon": "chat_bubble",
-            "heading": "24/7 Support",
-            "text": ""
+            "icon": "lightning_bolt",
+            "heading": "USB Rechargeable",
+            "text": "<p>No batteries, no waste — just plug, charge, and refresh your wardrobe.</p>"
           }
         }
       },
