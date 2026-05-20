@@ -38,7 +38,7 @@
           "type": "text",
           "settings": {
             "icon": "none",
-            "text": "✨ Free Delivery on Orders Over $40",
+            "text": "DELIVERY ALL OVER LEBANON",
             "link": "",
             "color_bg": "#3f72e5",
             "color_text": "#ffffff"
@@ -89,6 +89,7 @@
       "type": "header",
       "settings": {
         "sticky_header": true,
+        "logo": "shopify://shop_images/1778513266_Gemini_Generated_Image___1_-removebg-preview.png",
         "logo_height_range": 72,
         "logo_height_range_mobile": 55,
         "style": "style3",
